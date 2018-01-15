@@ -1,0 +1,29 @@
+{
+  "name": "sacome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "nodemailer": "^4.4.0"
+  },
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgoveia/sacome.git"
+  },
+  "author": "Stephen Goveia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sgoveia/sacome/issues"
+  },
+  "homepage": "https://github.com/sgoveia/sacome#readme"
+}
